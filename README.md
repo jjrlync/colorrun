@@ -1,2 +1,2 @@
 # colorrun
-Color Run Game
+Color Run Event Hub
